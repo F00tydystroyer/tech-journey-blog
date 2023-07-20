@@ -21,8 +21,7 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hello, I&apos;m <b>Luke</b>. I&apos;m a software engineer in love
-            with front end development. This is the starter template for Tech Journey!
+            htee 
           </p>
           <div className={'my-4'}>
             <i>
