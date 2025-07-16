@@ -2,14 +2,14 @@
 module.exports = {
     daisyui: {
         themes: [
-            "luxury",
+            
             {
                 "mytheme": {
-                    "primary": "#14b8a6",
-                    "secondary": "#d926a9",
-                    "accent": "#1fb2a6",
-                    "neutral": "#e5e7eb",
-                    "base-100": "#f3f4f6",
+                    "primary": "#6a4c1b",
+                    "secondary": "#275111",
+                    "accent": "#0c343d",
+                    "neutral": "#6a4c1b",
+                    "base-100": "#312511",
                 },
             },
         ],
