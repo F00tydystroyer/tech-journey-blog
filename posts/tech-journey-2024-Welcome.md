@@ -3,7 +3,7 @@ title: 'Tech Journey 2025 - Chapter 1 Crimsion'
 date: '2025-07-16'
 ---
 
-const imageUrl = '/images/lotm.jpg';
+
 
 Painful!
 
@@ -151,4 +151,3 @@ Using the crimson veil-like moonlight as illumination, he turned his head and ex
 
 A clear reflection appeared in the mirror. His temple had a grotesque wound with burn marks along its periphery. Blood stained the wound’s surroundings and there were grayish-white brain juices squirming slowly within.
 
-const imageUrl = '/images/merlinhermes.jpg';
